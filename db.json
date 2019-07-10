@@ -1,4 +1,5 @@
-{[
+{
+  "productos":[
   {
     "nombre": "Refrigerador 1",
     "precio": 29990,
