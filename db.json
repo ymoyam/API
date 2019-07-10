@@ -1,16 +1,9 @@
-[
+{[
   {
-
     "nombre": "Refrigerador 1",
     "precio": 29990,
-    "caracteristicas": "
-    Eficiencia energética A+
-    Capacidad total útil: 311 lt
-    No Frost: Sí
-    Ice maker interior: Sí
-    Material de las bandejas: Vidrio templado: Si",
+    "caracteristicas": "Eficiencia energética A+",
     "precio": 200000,
     "imagen": "https://falabella.scene7.com/is/image/Falabella/7411235_5?$producto308$&wid=800&hei=800&qlt=70"
-  }
-  
-]
+  } 
+]}
