@@ -2,20 +2,20 @@
   "productos":[
   {
     "nombre": "Refrigerador No Frost 315 lt RGE-34DIP",
-    "caracteristicas": "Eficiencia energética A+, Marca:Daewoo, Modelo:RGE-34DIP, Tipo:Top Mount, Tecnología de descongelamiento: No Frost, Clasificación energética: A, Color: Silver, Consumo de energía: 30,08 kWh/mes, Capacidad total útil: 315 lt, Capacidad útil del refrigerador: 232 lt, Capacidad útil del freezer: 83 lt,  Temperatura máxima de congelamiento: (-18°), Dispensador: Agua",
+    "caracteristicas": "Eficiencia energética A+, Marca:Daewoo, Modelo:RGE-34DIP, Tipo:Top Mount, Tecnología de descongelamiento: No Frost, Clasificación energética: A, Color: Silver, Consumo de energía: 30,08 kWh/mes, Capacidad total útil: 315 lt,",
     "precio": "$200.000",
     "imagen": "https://falabella.scene7.com/is/image/Falabella/7411235_5?$producto308$&wid=800&hei=800&qlt=70"
   },
      {
     "nombre": "Lavadora Automática 18 kg WT18VSB",
     "caracteristicas": "Capacidad de carga:21 kg,Tipo de carga:Superior,Material del tambor:Acero inoxidable, Tecnología:No inverter,Dimensiones (AltoxAnchoxProfundidad):108x61x66.5 cm, Garantía del proveedor:12 meses",
-    "precio": 220000,
+    "precio": "$220.000,
     "imagen": "https://falabella.scene7.com/is/image/Falabella/6728476_1?$producto308$&wid=800&hei=800&qlt=70"
   },
  {
     "nombre": "Microondas 32 lt Black MC32K7055CT/ZS",
     "caracteristicas": "Marca: Samsung, Modelo: MC32K7055CT/ZS, Tipo: Microonda, Potencia: 900W, Capacidad: 32 lt, Color de puerta: Negro, Color de cuerpo: Gris, Peso: 20 kg, Material: Acero inoxidable, Niveles de potencia: 6",
-    "precio": 40000,
+    "precio": "$40.000,
     "imagen": "https://falabella.scene7.com/is/image/Falabella/5254117_1?$producto308$&wid=800&hei=800&qlt=70"
   }
  ],
