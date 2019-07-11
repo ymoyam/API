@@ -1,16 +1,22 @@
 {
   "productos":[
   {
-    "nombre": "Refrigerador 1",
+    "nombre": "Refrigerador",
     "caracteristicas": "Eficiencia energética A+",
     "precio": 200000,
     "imagen": "https://falabella.scene7.com/is/image/Falabella/7411235_5?$producto308$&wid=800&hei=800&qlt=70"
   },
- {
-    "nombre": "Refrigerador 1",
+     {
+    "nombre": "Lavadora",
     "caracteristicas": "Eficiencia energética A+",
-    "precio": 200000,
-    "imagen": "https://falabella.scene7.com/is/image/Falabella/7411235_5?$producto308$&wid=800&hei=800&qlt=70"
+    "precio": 220000,
+    "imagen": "https://falabella.scene7.com/is/image/Falabella/6728476_1?$producto308$&wid=800&hei=800&qlt=70"
+  },
+ {
+    "nombre": "Microondas",
+    "caracteristicas": "Eficiencia energética A+",
+    "precio": 40000,
+    "imagen": "https://falabella.scene7.com/is/image/Falabella/5254117_1?$producto308$&wid=800&hei=800&qlt=70"
   }
  ],
  "categorias":{
