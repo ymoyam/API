@@ -1,5 +1,5 @@
 {
-  [
+  "productos":[
    {
     
     "nombre": "Refrigerador No Frost 315 lt RGE-34DIP",
@@ -23,7 +23,7 @@
     "imagen": "https://falabella.scene7.com/is/image/Falabella/5254117_1?$producto308$&wid=800&hei=800&qlt=70",
     "categoria":"lblanca"
   }
- ],
+
    
   [
    {
@@ -47,9 +47,7 @@
       "imagen": "https://falabella.scene7.com/is/image/Falabella/6599542_1?$producto308$&wid=800&hei=800&qlt=70",
       "categoria":"calzado"
     }
-  ],
-
-  [
+  
    {
     "nombre": "Camisa",
     "caracteristicas": "Marca: Jack&Jones, Modelo: 12142212, Tipo: Camisas casuales, Género: Hombre, Material principal: Algodón, Composición: 100% Algodón, Diseño: Cuadros, Estilo: Casual, Fit: Classic fit, Largo de mangas: Manga larga",
@@ -71,10 +69,8 @@
       "imagen": "https://falabella.scene7.com/is/image/Falabella/6994992_1?$producto308$&wid=800&hei=800&qlt=70",
       "categoria":"vestimenta"
     }
-  ],
-  
-  [
-  {
+ 
+    {
     "nombre": "Pelota Rabisco Copa America Strike",
     "caracteristicas": "Marca: Nike, Modelo: COPA AMERICA N, Tipo: Pelotas de fútbol, Tamaño: 5, Material principal: Sintético, Costura: A máquina, Disciplina: Fútbol Hecho en: China",
     "precio": "$20.200",
@@ -95,7 +91,7 @@
       "imagen": "https://falabella.scene7.com/is/image/Falabella/6677506_1?$producto308$&wid=800&hei=800&qlt=70",
       "categoria":"deportes"
    }
-  ]
+  
 }
 
  
